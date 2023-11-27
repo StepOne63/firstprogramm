@@ -6,7 +6,6 @@ public class Main {
         int part = 20;
         int miles = 1;
         int bonus = price / part * miles;
-        if (bonus > 20) ;
         System.out.println("Итоговый бонус " + bonus);
     }
 }
